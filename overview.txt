@@ -1,0 +1,38 @@
+
+<!DOCTYPE html> 
+<html>
+<head>
+<title>page1</title>
+<meta charset="UTF-8">
+<style type="text/css">
+  .tst1 {padding-left: 200px; padding-right: 200px}
+#tst2 {font-family:"Georgia";}
+h3 {
+    text-shadow: 0 0 3px #FF0000;
+}
+h1 {
+    text-shadow: 0 0 10px #7FFFD4;
+}
+h2 {
+    text-shadow: 0 0 3px #FFFF00;
+}
+</style>
+</head>
+<body background="overview12.jpg">
+<u><b><font color=#000080><h1 align=center>OVERVIEW</h1></font></b></u>
+<u><i><h2 align=center><font color=#191970>"The gateway to the North-East"</font></h2></i></u></font><br>
+<marquee><u><b><h3>Guwahati (Pragjyotishpura in ancient Assam, Gauhati in the modern era) is the largest city in the Indian state of Assam and also the largest urban area in Northeast India. A major riverine port city and one of the fastest growing cities in India, Guwahati is situated on the south bank of the Brahmaputra.</h3></b></u></marquee>
+<p align=center>
+<video width="320" height="240" controls>
+  <source src="vidover.mp4" type="video/mp4">
+</video></p>
+<font color=#FFEFD5 size=4>
+<p class="tst1" id="tst2">A sprawling city located beside the mighty Brahmaputra, Guwahati is the epitome of an amalgamation of ancient history and modernization. The largest city in all of Assam, Guwahati stands as the gateway to the Seven Sisters of North East India. A city shaped by time itself, Guwahati is home to age-old temples that take you centuries back to the pages of ancient history, but it also boasts of a cutthroat lifestyle and an electric nightlife, keeping up with the modern era of urbanisation and commercialization. The gushing Brahmaputra river carries with it untold tales from thousands of years past, and the peaceful ambience lingering in the city despite its modern lifestyle is one of the main reasons you should visit Guwahati if only to get a slice-of-life experience of the vivacious juxtaposition of the old and the new.</p>
+<p class="tst1" id="tst2">Guwahati is home to a huge number of old temples, all of which have interesting stories and legends behind them. The Kamakhya temple, arguably the most visited temple in the city, is a temple dedicated to the goddess Kamakhya, who was also known as the goddess of desire. Associated with a legend that finds its way in the pages of history, this temple hosts the annual Manasha Puja and the Ambubachi Mela, celebrations which see pilgrims from far and wide congregating to attend them. Other temples in Guwahati worth visiting include the Umananda temple and the Navagraha temple.</p>
+</font>
+<p align=center><font size=5>
+<a href=mainpage.html style="color:white"> Back </a>|<a href=zoo.html style="color:white">Next</a>
+</font></p>
+
+</body></html>
+

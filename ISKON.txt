@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>page4</title>
+<meta charset="UTF-8">
+<style type="text/css">
+  .tst1 {padding-left: 200px; padding-right: 200px}
+#tst2 {font-family:"comic sans ms";}
+
+h1 {
+    text-shadow: 0 0 10px #FF69B4;
+}
+h4 {
+    text-shadow: 0 0 3px #FFFF00;
+}
+</style>
+</head>
+<body background="iskon.jpg">
+<b><u><h1 align=center>ISKCON Guwahati, Guwahati Overview
+</h1></u>
+<p class="tst1" id="tst2">ISKCON, International Society for the Krishna consciousness is a Hindu religious society which was founded in the New York City in the year 1966 by Bhaktivedanta Swami Prabhupada. Its core belief is based on the holy Hindu books of Bhagavad Gita and Srimad Bhagavatam. The society has international recognition, and various temples of ISKCON are located in various parts of the world. ISKCON Guwahati is one of the temples under the parent organization which is dedicated to Lord Krishna.</p>
+<p class="tst1" id="tst2">It is called Shri Shri Rukmini Krishna, the name of the temple is given after Rukmani, the wife of Lord Krishna. It is located on a hilltop of Ulubari Chariali area of the capital city. It is beautifully constructed of the stark white marble which adds a stunning look to the architecture of the building.</p> 
+
+<p class="tst1" id="tst2">ISKCON Guwahati is surrounded by lush green gardens where devotees can spend their time in the dedication of God. The interiors of the temple include the deities of Krishna and Rukmani in the attractive attires. There are various halls inside the temple for preaching the teaching of the society which is based on Vaishnavism, which considers Lord Vishnu as their supreme power (Krishna was also one of the avatars of Lord Vishnu).</p>
+<h4 class="tst1" id="tst2"><font size=4><u>The preachings</u>
+</font></h4>
+<p class="tst1" id="tst2">The life lessons under the ISKCON society are primarily based on the "Hare Krishna mantra." There are various sessions inside the premises of the temple which preach the life lessons based on the beliefs of the ISKCON society. Various programs such as Gita classes, stress management classes, and personality development classes are organized for the devotees by the authorities of the temple.</p> 
+
+<p class="tst1" id="tst2">The teachings of the temple are based on four Dharmas to lead a spiritual life. The four Dharmas are Daya: Mercy, Tapas: Self-Control or Austerity, Satyam: Truthfulness ?aucam: Cleanliness of body and mind.</p>
+<p align=center>
+<video width="320" height="240" controls>
+  <source src="ISKON.mp4" type="video/mp4">
+</video></p>
+
+<h4 class="tst1" id="tst2"><font size=4><u>Spiritual activities at ISKCON</u>
+</font></h4>
+<p class="tst1" id="tst2">Apart from the preaching of living a spiritual life, there are several other activities that devotees of ISKCON indulge in. Chanting the Krishna mantra is a daily practice at the temple. Apart from this, daily routines at the temple include aarti in morning and evening, Gita discourses, bhajans, and mantras. Devotees can participate in all the activities of the temple irrespective of their caste and religion. </p>
+
+<p class="tst1" id="tst2">The visitors can have the 'prasadam' at the temple which is available at 1:30 PM, during the lunch time. There is also a 'Sunday Bhog' available for the visitors at INR 30 on Sundays. Various festivals such as Janmashtami and Jagannath yatra are celebrated at the temple..</p>
+<h4 class="tst1" id="tst2"><font size=4><u>How to Reach ISKCON Guwahati</u>
+</font></h4>
+<p class="tst1" id="tst2">The temple is located 2 km away from the Guwahati temple. You can take an auto-rickshaw from the railway station to the temple.</p>
+</b>
+<p align=center><font size=5>
+<a href=kam.html style="color:black"> Back </a>|<a href=kazi.html style="color:black">Next</a>
+</font></p>
+
+</body>
+</html>
+

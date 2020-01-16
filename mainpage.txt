@@ -1,0 +1,84 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<title>
+Webster Project
+</title>
+<style>
+body {
+  background-color: black;
+  font-family: cursive;
+}
+
+.glow {
+  font-size: 30px;
+  color: #2E8B57;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+     text-shadow: 0 0 10px #ADFF2F, 0 0 10px #ADFF2F, 0 0 10px #ADFF2F, 0 0 10px #ADFF2F, 0 0 10px #ADFF2F, 0 0 10px #ADFF2F, 0 0 10px #ADFF2F;
+  }
+  to {
+    text-shadow: 0 0 20px #ADFF2F, 0 0 30px #ADFF2F, 0 0 40px #ADFF2F, 0 0 50px #ADFF2F, 0 0 60px #ADFF2F, 0 0 70px #ADFF2F, 0 0 80px #ADFF2F;
+  }
+}
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+.zoom {
+    padding: 50px;
+    background-color: transparent;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.zoom:hover {
+    -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5); 
+}
+</style>
+</head>
+<body background="guwahati.jpg">
+<font color=#2E8B57 size=6>
+<u><h2 align=center class="glow">Assam Tourism</h2></u>
+
+</font>
+<font face=algerian color=brown size=5>
+<u><h4 align=center class="glow">Guwahati - The Heart of Assam</h4></u>
+</font><br>
+
+<font size=5 color=#FF4500>
+<marquee direction="right" behavior="alternate" >
+ "Welcome to Guwahati"</marquee>
+</font>
+
+<font face=algerian color=blue size=6><h3 align=center><u>Contents:-</u></h3></font></p>
+<font face=algerian color=blue size=4>
+<div class="zoom">
+<b>
+<ol type=i align=left>
+<a href=overview.html><li>Overview</a>
+<a href=zoo.html><li>Guwahati Zoo</a>
+<a href=kam.html><li>Kamakhya Temple</a>
+<a href=iskon.html><li>ISKCON Temple</a>
+<a href=kazi.html><li>Kaziranga National Park</a>
+<a href=hotels.html><li>Hotels</a>
+<a href=places.html><li>How to reach</a>
+<a href=food.html><li>Food</a>
+<a href=feed.html><li>Feedback</a>
+</ol></b>
+</div>
+</body>
+</html>
