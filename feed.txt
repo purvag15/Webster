@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>page8</title>
+</head>
+<body background="feed.jpg"><b>
+<h2 align=center><u>REFERENCES<u></h2>
+<ul>
+<li><a href="http://www.google.com">Google</a></li>
+<li><a href="http://www.youtube.com">Youtube</a></i>
+<li><a href="https://www.holidify.com/places/guwahati">Assam Tourism</a></li>
+<li><a href="http://www.images.google.com">Google images</a></li>
+<li><a href="http://www.wikipedia.com">Wikipedia</a></li>
+<h2 align=center><u>FEEDBACK<u></h2>
+<centre>
+<font size=3 face=arial>
+<form name="form1">
+<b><font size=4>Give us your Feedback</font></b><br>
+</centre>
+<ol type="1">
+
+<li>User-Interference:
+<input type="radio" name=r1>1
+<input type="radio" name=r1>2
+<input type="radio" name=r1>3
+<input type="radio" name=r1>4
+<input type="radio" name=r1>5<br><br></li>
+
+<li>Ease of Access:
+<input type="radio" name=r2>1
+<input type="radio" name=r2>2
+<input type="radio" name=r2>3
+<input type="radio" name=r2>4
+<input type="radio" name=r2>5<br><br></li>
+
+<li>Content:
+<input type="radio" name=r3>1
+<input type="radio" name=r3>2
+<input type="radio" name=r3>3
+<input type="radio" name=r3>4
+<input type="radio" name=r3>5<br><br></li>
+
+<fieldset>
+<legend>Overall</legend>
+<p>
+<label>Performance</label>
+<select id="myList">
+   <option value="1">excellent</option>
+   <option value="2">good</option>
+   <option value="3">satisfactory</option>
+</select>
+</p>
+</fieldset><br><br>
+Feedback:
+<textarea name="feedback" rows="10" cols="30">
+</textarea><br><br>
+<input type="Submit" value="Submit">
+
+</b>
+
+			<p align=center><font size=5>			
+<a href=food.html style="color:black"> Back </a>|<a href=mainpage.html style="color:black">Return to mainpage</a>
+</font></p>
+</body>
+</html>
