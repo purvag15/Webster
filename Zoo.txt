@@ -1,0 +1,46 @@
+
+<!DOCTYPE html> 
+<html>
+<head>
+<title>
+Page2
+</title>
+<meta charset="UTF-8">
+<style type="text/css">
+  .tst1 {padding-left: 200px; padding-right: 200px}
+#tst2 {font-family:"comic sans ms";}
+h3 {
+    text-shadow: 2px 2px #FF8C00;
+}
+h4 {
+    text-shadow: 2px 2px #FF8C00;
+}
+</style>
+</head>
+<body background="zoo.jpg">
+<u><b><h3 align=center><font size=5>PLACES TO VISIT</font></h3></b></u><b>
+<u><i><h3 align=center><font size=5>Guwahati Zoo</font></h3></i></u>
+<font size=3 color=black>
+<p class="tst1" id="tst2">Having been established as one of the better zoos in the country, the Guwahati Zoo as it popularly known as a wildlife paradise spread over an extensive area of 430 acres. Located in a densely vegetated forest area in the centre of Guwahati called the Hengrabari Forest Area, the protected area has not lost its vibrant touch with mother nature. Often referred to as the green lung of the city of Guwahati, the Assam Zoo cum Botanical Garden lies just 6 kilometres south of the mighty Brahmaputra river that flows through the state and is the largest of its kind in the North-East region of the country. The zoo exhibits captivating landscape gardens, a great deal of wildlife and a serene environment. It has had an important mark in shaping the ecological outline of the state and also the country. A unique abundance of the wildlife here makes it an admirer's paradise and is certainly worth the visit!<br>
+Established in 1958, it has since been a major tourist attraction in the state, with only the Kaziranga National Park and Manas National Park rivalling the grandness of flora and fauna. It is home to 113 different species of the animal kingdom, making up the 900 plus animals, birds and reptiles in the zoo. Over the years, the zoo has grown to accommodate more animals and also has founded a charming botanical garden in its vicinity. More than half a million tourists and wildlife enthusiasts visit the place throughout the year for the indigenous and exotic animals at display such as the majestic one-horned rhinoceros which is native to the Indian subcontinent, giraffes and ostriches from Africa and kangaroos from Australia. </p></font>
+<p align=center>
+<video width="350" height="350" controls>
+  <source src="zoo.mp4" type="video/mp4">
+</video></p>
+<h4 align=center><font size=5>FLORA AND FAUNA AT GUWAHATI ZOO</font></h4><br>
+<p class="tst1" id="tst2">Although the main attractions of the zoo are the fauna exhibits, the zoo has a lot more of amenities to offer such as a botanical garden, museum, reptile house and a herbarium collection. The animals here at display range from the indigenous One horned Rhinoceros, Royal Bengal Tiger, Golden Langur and the Pig tailed Macaque to exotic ones like the African White Rhino, Black Rhinoceros, Giraffe and Kangaroo. Pumas, Jaguars and Llamas also make the list of international celebrities at the zoo. It is also home to mammals such as the Himalayan black bear, tiger, Asian elephant, leopard, black buck, sambar, nilgai and striped hyena. The aviary would interest ornithologists and bird watchers - some of the birds here are the rosy pelican, cassowary, parakeets, silver pheasant, steppe eagle, bar-headed geese, storks, macaw etc. The reptile house is another amazing attraction which houses different snakes in individual enclosures.<br>
+Several captive breeding programs have been started by the authorities to increase the population of endangered species such as the one horned rhinoceros, gharials and white tigers. The zoo is one of the most important ex-situ conservation centers in the country and is host to numerous outreach, animal welfare and awareness programs. Rehabilitation, rescue and adoption schemes have also been established, so you can actually adopt an animal and help it grow!</p>
+<br><h4 align=center><font size=5>GUWAHATI ZOO MUSEUM AND HERBARIUM COLLECTION</font></h4>
+<p class="tst1" id="tst2">The Guwahati Zoo Museum houses exquisite models of stuffed specimens of endemic species such as the Gharial. The herbarium collection here is a botanists' haven as it contains over two thousand carefully preserved sheets covering 550 species of indigenous flora belonging to 106 different families. The museum and the herbarium provide technical information to interested learners or amateurs in the field. The botanical garden is one of the finest in North India and possesses 345 indigenous and 280 exotic species of plants.<br>
+<p align=center><img src="zoo1.jpg" height=450 width=850 border=8></p>
+<h3 align=center><font size=5>HISTORY OF GUWAHATI ZOO</font></h3>
+<p class="tst1" id="tst2">Initially, the plan for the zoo was put forth in 1957 but was opened to public viewing in 1958. The idea resulted during the 64th session of the Indian National Congress which was held in Guwahati. Apart from rallying their political reasons, the organizing committee also arranged an exhibition of few animals and birds for the amusement of the delegates. The star attraction of the show was a female leopard cub named Spotty. Eventually, when the assembly came to an end, there was a need to house these animals, and hence they were shifted to a nearby scenic place called Jalprigog in the Hengrabari Reserve Forest Area. Suitable facilities and infrastructure were subsequently developed to house the wildlife.<br> 
+At its inception, there were only 22 species of animals and 31 species of birds. Over the years, the enclosure grew, and more provisions were made available for its sustenance. A museum was added to its list of attractions, and a botanical garden was established in 1982. Hence, it became the Assam State Zoo cum Botanical Garden. In 2002, 45 hectares of the reserve forest area was added to the zoo, expanding its size.</p>
+<p align=center><font size=5>
+<a href=overview.html style="color:Black"> Back </a>|<a href=kam.html style="color:black">Next</a>
+</font></p>
+
+</body>
+</html>
+
+

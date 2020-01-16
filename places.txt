@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>Page4</title>
+</head>
+<body background="train.jpg">
+<u><h1 align=center>How to reach Guwahati
+</h1></u>
+<p><b>How to Reach Guwahati by Flight</b><br>
+The Lokpriya Gopinath Bordoloi International Airport or Guwahati International Airport is the main airport in 
+
+North East India. Thus, the airport is well connected to all major cities of India. The airport is about 20 
+
+kilometers from the city center. Pawan Hans provides helicopter services from other North Eastern cities to 
+
+Guwahati.<br>
+
+Nearest Airport: Lokpriya Gopinath Bordoloi International Airport (GAU)
+
+</p>
+<p><b>How to Reach Guwahati by Train</b><br>
+The city has two major railway stations- Kamakhya and Guwahati. These stations are connected to all major cities 
+
+in the country via a number of express and super fast trains. Traveling to Guwahati via train offers a beautiful 
+
+view of the hilly surroundings and is a rejuvenating experience.</p>
+<p align=center>
+<img src="places.gif" height=400 width=600 border=2>
+</p>
+<h4 align=”center”><font size=4>
+Most Frequently Searched Routes to Guwahati
+</font></h4><p>
+<table border=2 style="width:100%">
+<tr><th>Route name</th>
+   <td>Kolkata to Guwahati</td>
+   <td>Delhi to Guwahati</td>
+   <td>Bangalore to Guwahati</td>
+   <td>Hyderabad to Guwahati</td>
+   <td>Mumbai to Guwahati</td></tr>
+<tr><th> Distance</th> 
+   <td>986km</td>
+   <td>1,913km</td>
+   <td>2,839km</td>
+   <td>2,450km</td>
+   <td>2,775km</td>
+  </tr>
+<tr><th>Duration</th>
+   <td>20 hrs 18 min</td>
+   <td>1 day 8 hrs </td>
+   <td>2 days 2 hrs</td>
+   <td>1 day 19 hrs</td>
+   <td>1 day 22 hrs</td>
+     </tr> </table>
+<p align=center>
+   <b><a href=hotels.html style="color:Black"> Back </a>|<a href=food.html style="color:Black">Next</a>
+</b>
+</p>
+</body>
+</html>
