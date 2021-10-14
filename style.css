@@ -1,0 +1,208 @@
+.container {
+  position: relative;
+  width: 200pt;
+}
+
+.image {
+  display: block;
+  width:200pt;
+  height: 230pt;
+  border-top-right-radius: 30%;
+  border: 3px solid black;
+}
+
+.overlay {
+  position:absolute;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+  background-color: #335bdf00;
+  overflow:hidden;
+  width: 0;
+  height: 70%;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
+  width: 100%;
+}
+
+.text {
+  white-space: nowrap; 
+  color: rgba(255, 255, 0, 0.815);
+  font-size: 25px;
+  font-weight: bold;
+  position: absolute;
+  overflow: hidden;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.subtext {
+  white-space: nowrap; 
+  color: rgba(255, 255, 0, 0.815);
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.email {
+  white-space: nowrap; 
+  color: rgba(255, 255, 0, 0.815);
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.icons {
+  white-space: nowrap; 
+  color: rgba(255, 255, 0, 0.815);
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.subheadings {
+    color: deeppink;
+    text-align: left;
+    padding-left: 0pt;
+    font-family:cursive;
+    font-size: 40px;
+    font-weight: bold;
+    text-align:Center;
+    text-decoration-style:dashed;
+    text-decoration-line: underline;
+    text-decoration-color: purple;
+}
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.column4 {
+  float: left;
+  width: 25%;
+}
+
+.column2 {
+  float: left;
+  width: 25%;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+#anuj {
+    margin-left: 40px;
+}
+
+#mayankpic {
+    margin-left: 40px;
+}
+
+#sharma {
+    margin-left: 40px;
+}
+
+#akshatc {
+  margin-left: 50%;
+}
+
+#akshata {
+  margin-left: 65%;
+}
+
+.glow {
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px rgba(221, 153, 63, 0.781), 0 0 20px   rgba(221, 153, 63, 0.781), 
+    0 0 30px   rgba(221, 153, 63, 0.781),
+    0 0 40px   rgba(221, 153, 63, 0.781), 0 0 50px   rgba(221, 153, 63, 0.781), 0 0 60px   rgba(221, 153, 63, 0.781),
+    0 0 70px   rgba(221, 153, 63, 0.781);
+  }
+  
+  to {
+    text-shadow: 0 0 20px rgba(21, 22, 66, 0.781), 0 0 20px rgba(21, 22, 66, 0.781), 0 0 20px rgba(21, 22, 66, 0.781),
+    0 0 20px rgba(21, 22, 66, 0.781), 0 0 20px rgba(21, 22, 66, 0.781), 0 0 20px rgba(21, 22, 66, 0.781),
+    0 0 20px rgba(21, 22, 66, 0.781);
+  }
+}
+
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border:0;
+    border-top: 1px solid #e6dbdb;
+    box-sizing:content-box;
+    height: 0;
+}
+
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: rgba(88, 88, 80, 0.219);
+  padding-top: 10px;
+  padding-bottom: 2px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.ecell {
+    text-shadow: 4px 4px gold;
+}
+
+
+.footer {
+  position: initial;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(130, 183, 209, 0.822);
+  color: white;
+}
+
+
+.alignment {
+  text-align:center;
+}
